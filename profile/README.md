@@ -1,16 +1,23 @@
-## Comunidad CHIRUSXS 🌀
+<div align="center">
+  <a href="https://suggester.js.org">
+    <img src="https://i.imgur.com/FDNtyKM.png" alt="CHIRUSXS Logo" width="150" height="150">
+    <h3 align="center">Comunidad CHIRUSXS 🌀</h3>
+  </a>
 
-[![](https://dcbadge.vercel.app/api/server/ZC8shhpSkf)](https://discord.gg/ZC8shhpSkf)
+  <p align="center">
+   CHIRUSXS es una comunidad social y de videojuegos fundada en el año 2020.<br>
+   Buscamos crear un lugar de calidad para que todo el mundo se sienta cómodo y pueda pasar un buen rato.
+    <br />
+    <a href="https://suggester.js.org/"><strong>🔗 Revisa nuestros enlaces</strong></a>
+    <br />
+  </p>
+</div>
 
-## ℹ Acerca de
-CHIRUSXS es una comunidad social y de videojuegos fundada en el año 2020. Buscamos crear un lugar de calidad para que todo el mundo se sienta cómodo y pueda pasar un buen rato.  
+<div align="center">
+  <a href="https://discord.gg/ZC8shhpSkf">
+    <img src="https://dcbadge.vercel.app/api/server/ZC8shhpSkf" alt="Insignia de Discord"]
+</div>
 
-Síguenos en nuestras redes sociales para estar al tanto de nuestras novedades.
-
-## 📋 Enlaces
-• 🔗 [CHIRUSXS.NET](https://www.chirusxs.net/)  
-• 🌈 [RGB.CHIRUSXS.NET](https://rg.chirusxs.net/)
-
-## 📩 Contacto
-• 📬 Canal [#soporte](https://discord.com/channels/714753410985099284/832033137742708737) en el servidor de Discord  
-• 📧 Correo electrónico `soporte@chirusxs.net`
+### Contacto
+Canal [#📬・soporte](https://discord.com/channels/714753410985099284/832033137742708737) en el servidor de Discord  
+Correo electrónico ✉ `soporte@chirusxs.net`
